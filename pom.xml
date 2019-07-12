@@ -64,7 +64,7 @@
         </dependency>
         <!-- Spring Boot Admin End -->
 
-        <!-- ZipKin Begin -->
+        <!-- ZipKin Begin  222-->
         <dependency>
             <groupId>io.zipkin.java</groupId>
             <artifactId>zipkin</artifactId>
